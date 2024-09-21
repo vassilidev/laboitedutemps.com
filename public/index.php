@@ -9,6 +9,6 @@
 </head>
 <body>
 <h1>Salut les gens</h1>
-<img src="capy.webp"/>
+<img src="capy.webp" width="500"/>
 </body>
 </html>
