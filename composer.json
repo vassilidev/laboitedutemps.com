@@ -1,0 +1,15 @@
+{
+    "name": "vassilijoffroy/laboitedutemps.com",
+    "autoload": {
+        "psr-4": {
+            "Vassilijoffroy\\LaboitedutempsCom\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "vassilidev",
+            "email": "vassilidevnet@gmail.com"
+        }
+    ],
+    "require": {}
+}
